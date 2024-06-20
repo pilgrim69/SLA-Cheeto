@@ -1,6 +1,7 @@
 #pragma once
-#include "Singleton.h"
-#include "global.h"
+#include <stdio.h>
+#include <string>
+#include <iostream>
 
 namespace Cheat::Features
 {
